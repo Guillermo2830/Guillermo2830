@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <div id="header"align="center">
      <h1 align="center">Hi, I'm Guillermo Rojas</h1>
-     <h3 align="center" >Sofware developer with knowledge in the creation of web applications, making use of technologies such as JavaScript, HMTL, CSS, SASS, and React</h3>
+     <h3 align="center" >Engineer with knowledge in the creation of web applications, making use of technologies such as JavaScript, HMTL, CSS, SASS, and React</h3>
      <h3 align="center">I have strong skills in responsive design, ensuring that my creations are accessible and look good on a wide range of screens and devices.</h3>
      <h3 align="center">Passion for the design of user interfaces and ensuring the quality of the software. Able to work as a team with a wide range of collaborative people in the project, in order to offer innovative and high-quality solutions. I have a receptive and collaborative attitude, capable of listening and working as a team in different situations.</h3>
   
